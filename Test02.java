@@ -11,3 +11,4 @@ public class Test02 {
 	}
 
 }
+//float和double转化成int类型总是截尾。
